@@ -1,0 +1,3 @@
+Source,Accuracy,ROC_AUC,Recall,Precision,F1_Score,Leakage / methodology check shown,Interpretability (XAI) shown
+Base paper (as reported),0.966,,,,,No,No
+This pipeline - XGBoost,0.7272727272727273,0.8175,0.7407407407407407,0.5882352941176471,0.6557377049180327,"Yes (split-before-fit, no target leakage)","Yes (SHAP, see notebook 06)"
