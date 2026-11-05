@@ -1,6 +1,7 @@
 # Diabetes Risk Prediction
 
-🔗 **Live Demo:** https://diabetes-risk-prediction-v01.streamlit.app/
+🔗 **Live Demo:** https://glucorisk.streamlit.app/
+
 
 ## Features
 - Diabetes risk prediction using Machine Learning
